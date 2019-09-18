@@ -1,0 +1,13 @@
+{
+    "name": "sohel/app",
+    "description": "php console application",
+    "authors": [
+        {
+            "name": "sohel",
+            "email": "sohelcse1999@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^4.3"
+    }
+}
